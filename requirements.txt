@@ -1,0 +1,5 @@
+nomic==1.1.6
+openai_whisper==20230314
+SpeechRecognition==3.10.0
+torch==2.0.0
+TTS==0.13.2
